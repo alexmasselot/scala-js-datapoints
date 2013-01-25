@@ -1,0 +1,3483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>OpenPaths data for bhargav</name>
+		<open>1</open>
+		<description />
+		<Placemark>
+			<name>OpenPaths data for bhargav</name>
+			<description>Location history</description>
+			<gx:Track>
+				<altitudeMode>clampToGround</altitudeMode>
+				<when>2012-12-09T19:55:22</when>
+				<gx:coord>-122.418815 37.752404 0</gx:coord>
+				<when>2012-12-09T22:58:26</when>
+				<gx:coord>-122.453361348 37.7695739793 0</gx:coord>
+				<when>2012-12-11T03:05:26</when>
+				<gx:coord>-122.407628225 37.7877501726 0</gx:coord>
+				<when>2012-12-12T03:00:52</when>
+				<gx:coord>-122.40484046 37.7981666319 0</gx:coord>
+				<when>2012-12-12T05:19:47</when>
+				<gx:coord>-122.424194813 37.7762864165 0</gx:coord>
+				<when>2012-12-13T04:40:21</when>
+				<gx:coord>-122.404602611 37.7862007487 0</gx:coord>
+				<when>2012-12-13T04:40:33</when>
+				<gx:coord>-122.404663456 37.7866308613 0</gx:coord>
+				<when>2012-12-15T03:55:10</when>
+				<gx:coord>-122.404663456 37.7866308613 0</gx:coord>
+				<when>2012-12-17T01:13:17</when>
+				<gx:coord>-122.404663456 37.7866308613 0</gx:coord>
+				<when>2012-12-19T05:01:58</when>
+				<gx:coord>-122.404663456 37.7866308613 0</gx:coord>
+				<when>2012-12-20T01:50:10</when>
+				<gx:coord>-122.402755119 37.7843813775 0</gx:coord>
+				<when>2012-12-23T02:57:26</when>
+				<gx:coord>-122.43317 37.766686 0</gx:coord>
+				<when>2012-12-27T03:56:22</when>
+				<gx:coord>-122.404663456 37.7866308613 0</gx:coord>
+				<when>2012-12-30T01:23:08</when>
+				<gx:coord>-122.404663456 37.7866308613 0</gx:coord>
+				<when>2013-01-01T01:15:05</when>
+				<gx:coord>-122.404663456 37.7866308613 0</gx:coord>
+				<when>2013-01-03T03:38:19</when>
+				<gx:coord>-122.404663456 37.7866308613 0</gx:coord>
+				<when>2013-01-07T00:25:20</when>
+				<gx:coord>-122.404663456 37.7866308613 0</gx:coord>
+				<when>2013-01-09T04:04:37</when>
+				<gx:coord>-122.404663456 37.7866308613 0</gx:coord>
+				<when>2013-01-12T03:50:24</when>
+				<gx:coord>-122.408866882 37.780872345 43</gx:coord>
+				<when>2013-01-12T03:52:32</when>
+				<gx:coord>-122.408683777 37.7806625366 43</gx:coord>
+				<when>2013-01-12T03:52:32</when>
+				<gx:coord>-122.408973694 37.7808609009 43</gx:coord>
+				<when>2013-01-12T03:52:32</when>
+				<gx:coord>-122.408828735 37.7809257507 40.0236091614</gx:coord>
+				<when>2013-01-12T04:50:08</when>
+				<gx:coord>-122.417617798 37.7792053223 43</gx:coord>
+				<when>2013-01-12T04:58:40</when>
+				<gx:coord>-122.423034668 37.7778396606 46.9781494141</gx:coord>
+				<when>2013-01-12T05:02:56</when>
+				<gx:coord>-122.423561096 37.7795562744 2.72082996368</gx:coord>
+				<when>2013-01-12T05:17:52</when>
+				<gx:coord>-122.430236816 37.7730407715 43</gx:coord>
+				<when>2013-01-12T05:34:56</when>
+				<gx:coord>-122.437080383 37.7722396851 43</gx:coord>
+				<when>2013-01-12T06:02:40</when>
+				<gx:coord>-122.437164307 37.7723693848 43</gx:coord>
+				<when>2013-01-12T06:13:20</when>
+				<gx:coord>-122.435279846 37.7728118896 56.4695396423</gx:coord>
+				<when>2013-01-12T06:13:20</when>
+				<gx:coord>-122.433624268 37.7733078003 56.4695396423</gx:coord>
+				<when>2013-01-12T06:13:20</when>
+				<gx:coord>-122.437545776 37.7712554932 43</gx:coord>
+				<when>2013-01-12T06:15:28</when>
+				<gx:coord>-122.438766479 37.7821159363 68</gx:coord>
+				<when>2013-01-12T06:26:08</when>
+				<gx:coord>-122.449691772 37.7687416077 45.6707267761</gx:coord>
+				<when>2013-01-12T19:41:52</when>
+				<gx:coord>-122.44947052 37.7687034607 81.3982696533</gx:coord>
+				<when>2013-01-12T22:30:24</when>
+				<gx:coord>-122.433250427 37.7693710327 43</gx:coord>
+				<when>2013-01-12T22:34:40</when>
+				<gx:coord>-122.429519653 37.7694320679 28.2768802643</gx:coord>
+				<when>2013-01-12T22:38:56</when>
+				<gx:coord>-122.413597107 37.7797698975 29.4230308533</gx:coord>
+				<when>2013-01-12T22:38:56</when>
+				<gx:coord>-122.414253235 37.7791824341 20.7765312195</gx:coord>
+				<when>2013-01-12T22:45:20</when>
+				<gx:coord>-122.407920837 37.7844734192 25.5533695221</gx:coord>
+				<when>2013-01-12T22:51:44</when>
+				<gx:coord>-122.359901428 37.7947387695 25.9696979523</gx:coord>
+				<when>2013-01-12T22:56:00</when>
+				<gx:coord>-122.293418884 37.8052177429 6.52059364319</gx:coord>
+				<when>2013-01-12T22:56:00</when>
+				<gx:coord>-122.279319763 37.7989349365 19</gx:coord>
+				<when>2013-01-12T23:04:32</when>
+				<gx:coord>-122.267044067 37.7954139709 7.96973800659</gx:coord>
+				<when>2013-01-12T23:13:04</when>
+				<gx:coord>-122.273719788 37.7969245911 7.99855041504</gx:coord>
+				<when>2013-01-13T00:10:40</when>
+				<gx:coord>-122.276252747 37.7971801758 8.34499835968</gx:coord>
+				<when>2013-01-13T00:21:20</when>
+				<gx:coord>-122.275146484 37.797794342 8.34499835968</gx:coord>
+				<when>2013-01-13T00:21:20</when>
+				<gx:coord>-122.275901794 37.7969360352 8.51767444611</gx:coord>
+				<when>2013-01-13T00:25:36</when>
+				<gx:coord>-122.276245117 37.7971115112 12.6955318451</gx:coord>
+				<when>2013-01-13T00:32:00</when>
+				<gx:coord>-122.27633667 37.7934875488 12.6955318451</gx:coord>
+				<when>2013-01-13T00:32:00</when>
+				<gx:coord>-122.276382446 37.7914466858 12.6955318451</gx:coord>
+				<when>2013-01-13T00:32:00</when>
+				<gx:coord>-122.276313782 37.7969245911 9.30326938629</gx:coord>
+				<when>2013-01-13T00:34:08</when>
+				<gx:coord>-122.276390076 37.7971458435 11.37981987</gx:coord>
+				<when>2013-01-13T00:34:08</when>
+				<gx:coord>-122.276313782 37.7970848083 2</gx:coord>
+				<when>2013-01-13T00:36:16</when>
+				<gx:coord>-122.27633667 37.7958450317 2</gx:coord>
+				<when>2013-01-13T00:36:16</when>
+				<gx:coord>-122.276351929 37.7947883606 2</gx:coord>
+				<when>2013-01-13T00:36:16</when>
+				<gx:coord>-122.2759552 37.7969665527 9.4590473175</gx:coord>
+				<when>2013-01-13T00:36:19</when>
+				<gx:coord>-122.276297808 37.7971361997 0</gx:coord>
+				<when>2013-01-13T02:14:24</when>
+				<gx:coord>-122.2762146 37.7972564697 0</gx:coord>
+				<when>2013-01-13T02:35:44</when>
+				<gx:coord>-122.276245117 37.7971115112 12.9020347595</gx:coord>
+				<when>2013-01-13T02:46:24</when>
+				<gx:coord>-122.276374817 37.7971076965 8</gx:coord>
+				<when>2013-01-13T02:50:40</when>
+				<gx:coord>-122.276313782 37.7972221375 12.318944931</gx:coord>
+				<when>2013-01-13T02:54:56</when>
+				<gx:coord>-122.275863647 37.7979850769 12.318944931</gx:coord>
+				<when>2013-01-13T02:54:56</when>
+				<gx:coord>-122.276374817 37.7972373962 11.3640909195</gx:coord>
+				<when>2013-01-13T03:44:00</when>
+				<gx:coord>-122.27205658 37.8036155701 28.8134899139</gx:coord>
+				<when>2013-01-13T04:01:04</when>
+				<gx:coord>-122.266395569 37.7984657288 11.3394565582</gx:coord>
+				<when>2013-01-13T04:03:12</when>
+				<gx:coord>-122.285064697 37.8018302917 11</gx:coord>
+				<when>2013-01-13T04:03:12</when>
+				<gx:coord>-122.28868103 37.8024940491 6</gx:coord>
+				<when>2013-01-13T04:03:12</when>
+				<gx:coord>-122.289871216 37.8027877808 6</gx:coord>
+				<when>2013-01-13T04:03:12</when>
+				<gx:coord>-122.29095459 37.8031539917 7</gx:coord>
+				<when>2013-01-13T04:03:12</when>
+				<gx:coord>-122.292015076 37.8034973145 8</gx:coord>
+				<when>2013-01-13T04:05:20</when>
+				<gx:coord>-122.292854309 37.8039016724 7</gx:coord>
+				<when>2013-01-13T04:05:20</when>
+				<gx:coord>-122.295188904 37.8045196533 7</gx:coord>
+				<when>2013-01-13T04:07:28</when>
+				<gx:coord>-122.317947388 37.8090591431 6.91918087006</gx:coord>
+				<when>2013-01-13T04:11:44</when>
+				<gx:coord>-122.397384644 37.7926979065 23.1584186554</gx:coord>
+				<when>2013-01-13T04:11:44</when>
+				<gx:coord>-122.396888733 37.7930755615 28.9899711609</gx:coord>
+				<when>2013-01-13T04:11:44</when>
+				<gx:coord>-122.399902344 37.7907752991 28.8337650299</gx:coord>
+				<when>2013-01-13T04:16:00</when>
+				<gx:coord>-122.40788269 37.7845077515 26.4059524536</gx:coord>
+				<when>2013-01-13T04:22:24</when>
+				<gx:coord>-122.402290344 37.7863044739 21.4110069275</gx:coord>
+				<when>2013-01-13T05:22:08</when>
+				<gx:coord>-122.40776825 37.7844429016 32.7827835083</gx:coord>
+				<when>2013-01-13T05:28:32</when>
+				<gx:coord>-122.411987305 37.7813911438 37.4641723633</gx:coord>
+				<when>2013-01-13T05:37:04</when>
+				<gx:coord>-122.416763306 37.7773323059 38.3847236633</gx:coord>
+				<when>2013-01-13T05:43:28</when>
+				<gx:coord>-122.41860199 37.7728843689 13.0026340485</gx:coord>
+				<when>2013-01-13T05:54:08</when>
+				<gx:coord>-122.419464111 37.7650489807 43</gx:coord>
+				<when>2013-01-13T05:58:24</when>
+				<gx:coord>-122.419204712 37.759929657 43</gx:coord>
+				<when>2013-01-13T06:09:04</when>
+				<gx:coord>-122.418380737 37.7522773743 43</gx:coord>
+				<when>2013-01-13T06:15:28</when>
+				<gx:coord>-122.412101746 37.7527236938 28.9061698914</gx:coord>
+				<when>2013-01-13T07:06:40</when>
+				<gx:coord>-122.410820007 37.7512550354 42.9758911133</gx:coord>
+				<when>2013-01-13T07:13:04</when>
+				<gx:coord>-122.410713196 37.7513046265 42.9944648743</gx:coord>
+				<when>2013-01-13T07:13:04</when>
+				<gx:coord>-122.410720825 37.7512931824 42.9944648743</gx:coord>
+				<when>2013-01-13T07:34:24</when>
+				<gx:coord>-122.406913757 37.7580375671 43</gx:coord>
+				<when>2013-01-13T07:38:40</when>
+				<gx:coord>-122.419166565 37.7656288147 43</gx:coord>
+				<when>2013-01-13T07:45:04</when>
+				<gx:coord>-122.423919678 37.761554718 43</gx:coord>
+				<when>2013-01-13T07:51:28</when>
+				<gx:coord>-122.437782288 37.7607498169 36.0004196167</gx:coord>
+				<when>2013-01-13T07:55:44</when>
+				<gx:coord>-122.446968079 37.7622489929 76.3862380981</gx:coord>
+				<when>2013-01-13T08:02:08</when>
+				<gx:coord>-122.449203491 37.7676239014 77.3755950928</gx:coord>
+				<when>2013-01-13T09:29:36</when>
+				<gx:coord>-122.449447632 37.7684860229 86</gx:coord>
+				<when>2013-01-14T02:33:36</when>
+				<gx:coord>-122.449394226 37.7688064575 79.2012939453</gx:coord>
+				<when>2013-01-14T03:03:28</when>
+				<gx:coord>-122.4454422 37.7726821899 63.8583030701</gx:coord>
+				<when>2013-01-14T03:12:00</when>
+				<gx:coord>-122.437736511 37.7747840881 45.2061271667</gx:coord>
+				<when>2013-01-14T03:39:09</when>
+				<gx:coord>-122.4377136 37.774981 0</gx:coord>
+				<when>2013-01-14T05:54:08</when>
+				<gx:coord>-122.445716858 37.7717514038 43</gx:coord>
+				<when>2013-01-14T06:02:40</when>
+				<gx:coord>-122.448150635 37.7676620483 77.0687866211</gx:coord>
+				<when>2013-01-14T06:06:56</when>
+				<gx:coord>-122.448104858 37.7664871216 79.9946594238</gx:coord>
+				<when>2013-01-14T17:55:12</when>
+				<gx:coord>-122.429496765 37.7693748474 43</gx:coord>
+				<when>2013-01-14T18:03:44</when>
+				<gx:coord>-122.407928467 37.7844543457 43</gx:coord>
+				<when>2013-01-14T18:10:08</when>
+				<gx:coord>-122.40234375 37.7862701416 21.7250366211</gx:coord>
+				<when>2013-01-14T18:52:48</when>
+				<gx:coord>-122.397270203 37.773853302 20.1939353943</gx:coord>
+				<when>2013-01-14T19:01:20</when>
+				<gx:coord>-122.402290344 37.7863044739 20.7744121552</gx:coord>
+				<when>2013-01-14T19:37:36</when>
+				<gx:coord>-122.396934509 37.7736091614 20.8734779358</gx:coord>
+				<when>2013-01-14T19:44:00</when>
+				<gx:coord>-122.402244568 37.7862129211 21.2444877625</gx:coord>
+				<when>2013-01-14T20:11:44</when>
+				<gx:coord>-122.407295227 37.7821273804 43</gx:coord>
+				<when>2013-01-14T20:18:08</when>
+				<gx:coord>-122.408821106 37.7809524536 16.3807792664</gx:coord>
+				<when>2013-01-14T20:37:20</when>
+				<gx:coord>-122.408874512 37.7809448242 43</gx:coord>
+				<when>2013-01-14T20:48:00</when>
+				<gx:coord>-122.408874512 37.7808952332 43</gx:coord>
+				<when>2013-01-14T21:56:16</when>
+				<gx:coord>-122.402389526 37.7858886719 43.0014305115</gx:coord>
+				<when>2013-01-15T05:52:00</when>
+				<gx:coord>-122.407829285 37.784538269 27.3760910034</gx:coord>
+				<when>2013-01-15T05:56:16</when>
+				<gx:coord>-122.419364929 37.7751731873 21.2751369476</gx:coord>
+				<when>2013-01-15T06:02:40</when>
+				<gx:coord>-122.433036804 37.7693519592 42.2998161316</gx:coord>
+				<when>2013-01-15T06:11:12</when>
+				<gx:coord>-122.452255249 37.765914917 47.1540298462</gx:coord>
+				<when>2013-01-15T18:29:20</when>
+				<gx:coord>-122.433189392 37.7693862915 47.4481620789</gx:coord>
+				<when>2013-01-15T18:37:52</when>
+				<gx:coord>-122.419578552 37.7750511169 26.3636283875</gx:coord>
+				<when>2013-01-15T18:44:16</when>
+				<gx:coord>-122.402366638 37.7861099243 25.4109706879</gx:coord>
+				<when>2013-01-16T01:48:48</when>
+				<gx:coord>-122.397468567 37.773651123 23.5228824615</gx:coord>
+				<when>2013-01-16T01:53:04</when>
+				<gx:coord>-122.402359009 37.7862586975 22.6829452515</gx:coord>
+				<when>2013-01-16T04:28:48</when>
+				<gx:coord>-122.40763092 37.7879524231 39.8380241394</gx:coord>
+				<when>2013-01-16T05:47:44</when>
+				<gx:coord>-122.413406372 37.7799301147 25.7550888062</gx:coord>
+				<when>2013-01-16T05:52:00</when>
+				<gx:coord>-122.42691803 37.7721290588 19.5098247528</gx:coord>
+				<when>2013-01-16T05:52:00</when>
+				<gx:coord>-122.428436279 37.7695007324 32</gx:coord>
+				<when>2013-01-16T05:58:24</when>
+				<gx:coord>-122.448707581 37.7665367126 41.6675376892</gx:coord>
+				<when>2013-01-16T06:00:32</when>
+				<gx:coord>-122.448570251 37.7659873962 93.2387237549</gx:coord>
+				<when>2013-01-16T06:04:48</when>
+				<gx:coord>-122.446777344 37.7619056702 61.2601890564</gx:coord>
+				<when>2013-01-16T06:21:52</when>
+				<gx:coord>-122.449943542 37.7687034607 78.4662857056</gx:coord>
+				<when>2013-01-16T06:36:48</when>
+				<gx:coord>-122.449623108 37.7687110901 82.1247177124</gx:coord>
+				<when>2013-01-16T18:27:12</when>
+				<gx:coord>-122.42817688 37.7631568909 77.8042831421</gx:coord>
+				<when>2013-01-16T18:35:44</when>
+				<gx:coord>-122.406547546 37.7852287292 26.7913703918</gx:coord>
+				<when>2013-01-17T02:40:00</when>
+				<gx:coord>-122.397834778 37.7735710144 19.4132194519</gx:coord>
+				<when>2013-01-17T02:54:56</when>
+				<gx:coord>-122.402336121 37.786277771 19.4754943848</gx:coord>
+				<when>2013-01-17T03:03:28</when>
+				<gx:coord>-122.397743225 37.7732963562 19.601732254</gx:coord>
+				<when>2013-01-17T03:09:52</when>
+				<gx:coord>-122.402412415 37.7859916687 19.9631519318</gx:coord>
+				<when>2013-01-17T03:26:56</when>
+				<gx:coord>-122.40801239 37.7877044678 33.765335083</gx:coord>
+				<when>2013-01-17T03:37:36</when>
+				<gx:coord>-122.417236328 37.7861633301 42</gx:coord>
+				<when>2013-01-17T03:41:52</when>
+				<gx:coord>-122.421379089 37.7856750488 66</gx:coord>
+				<when>2013-01-17T03:48:16</when>
+				<gx:coord>-122.425163269 37.7863121033 55.9965744019</gx:coord>
+				<when>2013-01-17T04:16:00</when>
+				<gx:coord>-122.428375244 37.7855300903 31</gx:coord>
+				<when>2013-01-17T04:20:16</when>
+				<gx:coord>-122.428359985 37.7858581543 36.1490211487</gx:coord>
+				<when>2013-01-17T06:32:32</when>
+				<gx:coord>-122.430862427 37.7854347229 41.1263809204</gx:coord>
+				<when>2013-01-17T08:10:40</when>
+				<gx:coord>-122.438262939 37.7711906433 42</gx:coord>
+				<when>2013-01-17T08:14:56</when>
+				<gx:coord>-122.449546814 37.7687988281 78.0006713867</gx:coord>
+				<when>2013-01-17T19:14:08</when>
+				<gx:coord>-122.431335449 37.769077301 40.1852035522</gx:coord>
+				<when>2013-01-17T19:20:32</when>
+				<gx:coord>-122.419448853 37.7751274109 26.2564983368</gx:coord>
+				<when>2013-01-17T19:26:56</when>
+				<gx:coord>-122.402816772 37.7858085632 20.0153083801</gx:coord>
+				<when>2013-01-18T05:47:44</when>
+				<gx:coord>-122.404655457 37.7866668701 28.7438278198</gx:coord>
+				<when>2013-01-18T06:24:00</when>
+				<gx:coord>-122.413352966 37.7799453735 25.3988895416</gx:coord>
+				<when>2013-01-18T06:32:32</when>
+				<gx:coord>-122.433769226 37.7686004639 34.7240142822</gx:coord>
+				<when>2013-01-18T06:41:04</when>
+				<gx:coord>-122.452583313 37.7661361694 34.7240142822</gx:coord>
+				<when>2013-01-18T18:33:36</when>
+				<gx:coord>-122.429336548 37.7694549561 36.3179130554</gx:coord>
+				<when>2013-01-18T18:44:16</when>
+				<gx:coord>-122.407676697 37.7846183777 28.4205093384</gx:coord>
+				<when>2013-01-18T18:52:48</when>
+				<gx:coord>-122.402160645 37.7860946655 15.4977436066</gx:coord>
+				<when>2013-01-18T21:26:24</when>
+				<gx:coord>-122.397674561 37.7732772827 21.4066638947</gx:coord>
+				<when>2013-01-18T21:45:36</when>
+				<gx:coord>-122.404151917 37.784740448 20.2083358765</gx:coord>
+				<when>2013-01-19T03:50:24</when>
+				<gx:coord>-122.403556824 37.7886772156 14.7933225632</gx:coord>
+				<when>2013-01-19T03:56:48</when>
+				<gx:coord>-122.404243469 37.7920532227 42</gx:coord>
+				<when>2013-01-19T04:01:04</when>
+				<gx:coord>-122.40473938 37.7942810059 42</gx:coord>
+				<when>2013-01-19T04:03:12</when>
+				<gx:coord>-122.404693604 37.7975692749 42</gx:coord>
+				<when>2013-01-19T04:05:20</when>
+				<gx:coord>-122.406166077 37.7975273132 46.0141906738</gx:coord>
+				<when>2013-01-19T06:24:00</when>
+				<gx:coord>-122.407524109 37.7917442322 43.1176757812</gx:coord>
+				<when>2013-01-19T08:06:24</when>
+				<gx:coord>-122.409568787 37.787273407 33.5768241882</gx:coord>
+				<when>2013-01-19T08:42:40</when>
+				<gx:coord>-122.403411865 37.7877922058 29.5605010986</gx:coord>
+				<when>2013-01-19T10:10:08</when>
+				<gx:coord>-122.409378052 37.7832717896 23.8854579926</gx:coord>
+				<when>2013-01-19T10:16:32</when>
+				<gx:coord>-122.413764954 37.7796859741 42</gx:coord>
+				<when>2013-01-19T10:25:04</when>
+				<gx:coord>-122.419685364 37.7784500122 32.2553482056</gx:coord>
+				<when>2013-01-19T10:31:28</when>
+				<gx:coord>-122.425262451 37.7763633728 35.5981407166</gx:coord>
+				<when>2013-01-19T10:37:52</when>
+				<gx:coord>-122.425201416 37.7716255188 41.8036117554</gx:coord>
+				<when>2013-01-19T11:18:24</when>
+				<gx:coord>-122.430656433 37.7730369568 42</gx:coord>
+				<when>2013-01-19T11:33:20</when>
+				<gx:coord>-122.445953369 37.7711105347 42</gx:coord>
+				<when>2013-01-19T20:30:56</when>
+				<gx:coord>-122.449447632 37.7685508728 81.3336334229</gx:coord>
+				<when>2013-01-19T22:26:08</when>
+				<gx:coord>-122.450363159 37.7682685852 86</gx:coord>
+				<when>2013-01-19T22:34:40</when>
+				<gx:coord>-122.433555603 37.7694206238 86.0099868774</gx:coord>
+				<when>2013-01-19T22:41:04</when>
+				<gx:coord>-122.427581787 37.7693138123 53.9854278564</gx:coord>
+				<when>2013-01-19T22:45:20</when>
+				<gx:coord>-122.414558411 37.7788505554 17.5322589874</gx:coord>
+				<when>2013-01-19T22:49:36</when>
+				<gx:coord>-122.407714844 37.7842559814 25.3145866394</gx:coord>
+				<when>2013-01-20T01:29:36</when>
+				<gx:coord>-122.406913757 37.7887954712 37.0106010437</gx:coord>
+				<when>2013-01-20T02:29:20</when>
+				<gx:coord>-122.407989502 37.7842941284 23.1509838104</gx:coord>
+				<when>2013-01-20T02:35:44</when>
+				<gx:coord>-122.41191864 37.7810401917 36.851146698</gx:coord>
+				<when>2013-01-20T02:42:08</when>
+				<gx:coord>-122.416282654 37.7776298523 22.0078239441</gx:coord>
+				<when>2013-01-20T03:12:00</when>
+				<gx:coord>-122.421638489 37.775970459 42</gx:coord>
+				<when>2013-01-20T03:12:00</when>
+				<gx:coord>-122.421859741 37.7761459351 18</gx:coord>
+				<when>2013-01-20T03:22:40</when>
+				<gx:coord>-122.430107117 37.7750549316 42</gx:coord>
+				<when>2013-01-20T04:58:40</when>
+				<gx:coord>-122.432609558 37.7717056274 36</gx:coord>
+				<when>2013-01-20T05:00:48</when>
+				<gx:coord>-122.435096741 37.7714996338 51.9989089966</gx:coord>
+				<when>2013-01-20T05:07:12</when>
+				<gx:coord>-122.443138123 37.7703933716 42</gx:coord>
+				<when>2013-01-20T05:20:00</when>
+				<gx:coord>-122.448722839 37.7688560486 78.0001983643</gx:coord>
+				<when>2013-01-20T05:26:24</when>
+				<gx:coord>-122.449996948 37.7686882019 80.7255554199</gx:coord>
+				<when>2013-01-20T05:30:40</when>
+				<gx:coord>-122.449996948 37.7686882019 80.7255554199</gx:coord>
+				<when>2013-01-20T22:34:40</when>
+				<gx:coord>-122.44984436 37.768661499 81.0747833252</gx:coord>
+				<when>2013-01-20T22:51:44</when>
+				<gx:coord>-122.445991516 37.7737312317 42</gx:coord>
+				<when>2013-01-20T22:56:00</when>
+				<gx:coord>-122.4478302 37.7821388245 51.1453666687</gx:coord>
+				<when>2013-01-20T23:04:32</when>
+				<gx:coord>-122.45149231 37.7968139648 78.9797744751</gx:coord>
+				<when>2013-01-20T23:08:48</when>
+				<gx:coord>-122.441764832 37.799118042 -0.804678916931</gx:coord>
+				<when>2013-01-20T23:15:12</when>
+				<gx:coord>-122.440170288 37.8034934998 14</gx:coord>
+				<when>2013-01-20T23:25:52</when>
+				<gx:coord>-122.434074402 37.8053207397 13.1522760391</gx:coord>
+				<when>2013-01-20T23:45:04</when>
+				<gx:coord>-122.431671143 37.8063049316 11</gx:coord>
+				<when>2013-01-21T00:27:44</when>
+				<gx:coord>-122.418525696 37.8082466125 13.9917383194</gx:coord>
+				<when>2013-01-21T00:59:44</when>
+				<gx:coord>-122.418533325 37.8074760437 2.36684894562</gx:coord>
+				<when>2013-01-21T01:21:04</when>
+				<gx:coord>-122.412742615 37.8078536987 20</gx:coord>
+				<when>2013-01-21T01:31:44</when>
+				<gx:coord>-122.405006409 37.8059234619 13.6333713531</gx:coord>
+				<when>2013-01-21T01:36:00</when>
+				<gx:coord>-122.403106689 37.8028945923 13.8336668015</gx:coord>
+				<when>2013-01-21T01:38:08</when>
+				<gx:coord>-122.398674011 37.802280426 13.8336668015</gx:coord>
+				<when>2013-01-21T01:38:08</when>
+				<gx:coord>-122.402915955 37.8019180298 13.1414003372</gx:coord>
+				<when>2013-01-21T01:40:16</when>
+				<gx:coord>-122.40259552 37.8007316589 47.9657173157</gx:coord>
+				<when>2013-01-21T01:46:40</when>
+				<gx:coord>-122.402160645 37.7961387634 42</gx:coord>
+				<when>2013-01-21T01:50:56</when>
+				<gx:coord>-122.401237488 37.794052124 42</gx:coord>
+				<when>2013-01-21T01:53:04</when>
+				<gx:coord>-122.40007782 37.7910652161 46.1224212646</gx:coord>
+				<when>2013-01-21T02:08:00</when>
+				<gx:coord>-122.402389526 37.7862892151 19.5564689636</gx:coord>
+				<when>2013-01-21T02:14:24</when>
+				<gx:coord>-122.402412415 37.786277771 19.425327301</gx:coord>
+				<when>2013-01-21T04:01:04</when>
+				<gx:coord>-122.406219482 37.7843742371 30.6014671326</gx:coord>
+				<when>2013-01-21T04:05:20</when>
+				<gx:coord>-122.406227112 37.7843780518 29.6075248718</gx:coord>
+				<when>2013-01-21T07:17:20</when>
+				<gx:coord>-122.413383484 37.7799263 25.7667045593</gx:coord>
+				<when>2013-01-21T07:19:28</when>
+				<gx:coord>-122.430183411 37.7702140808 21.536989212</gx:coord>
+				<when>2013-01-21T07:21:36</when>
+				<gx:coord>-122.428901672 37.7693367004 35.1443786621</gx:coord>
+				<when>2013-01-21T07:28:00</when>
+				<gx:coord>-122.45022583 37.7671432495 53.0414123535</gx:coord>
+				<when>2013-01-21T21:15:44</when>
+				<gx:coord>-122.449798584 37.7687034607 81.0064544678</gx:coord>
+				<when>2013-01-21T21:17:52</when>
+				<gx:coord>-122.450416565 37.7683334351 81.0064544678</gx:coord>
+				<when>2013-01-21T21:17:52</when>
+				<gx:coord>-122.449699402 37.7687149048 81.0001296997</gx:coord>
+				<when>2013-01-21T21:22:08</when>
+				<gx:coord>-122.449935913 37.7687339783 80.7652816772</gx:coord>
+				<when>2013-01-21T22:36:48</when>
+				<gx:coord>-122.431289673 37.773979187 42</gx:coord>
+				<when>2013-01-21T22:45:20</when>
+				<gx:coord>-122.410247803 37.7483291626 59</gx:coord>
+				<when>2013-01-21T22:51:44</when>
+				<gx:coord>-122.412445068 37.758846283 42</gx:coord>
+				<when>2013-01-21T22:58:08</when>
+				<gx:coord>-122.408790588 37.7710418701 42</gx:coord>
+				<when>2013-01-21T23:08:48</when>
+				<gx:coord>-122.293617249 37.8323554993 2.00644111633</gx:coord>
+				<when>2013-01-21T23:17:20</when>
+				<gx:coord>-122.294319153 37.8376731873 16.5175495148</gx:coord>
+				<when>2013-01-21T23:23:44</when>
+				<gx:coord>-122.292144775 37.8303718567 11.3588256836</gx:coord>
+				<when>2013-01-22T02:12:16</when>
+				<gx:coord>-122.286491394 37.8296165466 5</gx:coord>
+				<when>2013-01-22T02:16:32</when>
+				<gx:coord>-122.296684265 37.8381118774 10.2444171906</gx:coord>
+				<when>2013-01-22T02:40:00</when>
+				<gx:coord>-122.391624451 37.7859992981 12.018705368</gx:coord>
+				<when>2013-01-22T02:44:16</when>
+				<gx:coord>-122.406524658 37.7725791931 39.8824539185</gx:coord>
+				<when>2013-01-22T02:50:40</when>
+				<gx:coord>-122.412338257 37.7542610168 42</gx:coord>
+				<when>2013-01-22T02:57:04</when>
+				<gx:coord>-122.414909363 37.7611885071 20</gx:coord>
+				<when>2013-01-22T03:01:20</when>
+				<gx:coord>-122.428092957 37.7645339966 27</gx:coord>
+				<when>2013-01-22T03:05:36</when>
+				<gx:coord>-122.447631836 37.76512146 112</gx:coord>
+				<when>2013-01-22T03:22:40</when>
+				<gx:coord>-122.449371338 37.7722854614 72.8243713379</gx:coord>
+				<when>2013-01-22T03:29:04</when>
+				<gx:coord>-122.448066711 37.7732849121 43.1596488953</gx:coord>
+				<when>2013-01-22T03:37:36</when>
+				<gx:coord>-122.440727234 37.7727546692 68.6435852051</gx:coord>
+				<when>2013-01-22T03:37:36</when>
+				<gx:coord>-122.440910339 37.772769928 60.1805458069</gx:coord>
+				<when>2013-01-22T03:46:08</when>
+				<gx:coord>-122.433815002 37.7733421326 60.1805458069</gx:coord>
+				<when>2013-01-22T03:46:08</when>
+				<gx:coord>-122.436882019 37.7713356018 42</gx:coord>
+				<when>2013-01-22T03:50:24</when>
+				<gx:coord>-122.433296204 37.7691726685 46</gx:coord>
+				<when>2013-01-22T03:52:32</when>
+				<gx:coord>-122.432426453 37.7693061829 42</gx:coord>
+				<when>2013-01-22T03:56:48</when>
+				<gx:coord>-122.430976868 37.7675437927 55</gx:coord>
+				<when>2013-01-22T04:05:20</when>
+				<gx:coord>-122.431312561 37.7672843933 44.5539855957</gx:coord>
+				<when>2013-01-22T04:33:04</when>
+				<gx:coord>-122.431488037 37.767162323 75</gx:coord>
+				<when>2013-01-22T04:35:12</when>
+				<gx:coord>-122.431289673 37.7672843933 36.4518280029</gx:coord>
+				<when>2013-01-22T04:37:20</when>
+				<gx:coord>-122.431510925 37.7672195435 24</gx:coord>
+				<when>2013-01-22T04:43:44</when>
+				<gx:coord>-122.431312561 37.7673187256 36.4534606934</gx:coord>
+				<when>2013-01-22T06:45:20</when>
+				<gx:coord>-122.443511963 37.7705039978 39.2750701904</gx:coord>
+				<when>2013-01-22T06:53:52</when>
+				<gx:coord>-122.449539185 37.7687187195 82.0738677979</gx:coord>
+				<when>2013-01-22T18:27:12</when>
+				<gx:coord>-122.414962769 37.7785339355 19.0989456177</gx:coord>
+				<when>2013-01-22T18:33:36</when>
+				<gx:coord>-122.404197693 37.7858924866 24.3805866241</gx:coord>
+				<when>2013-01-22T20:28:48</when>
+				<gx:coord>-122.404090881 37.7913360596 27.1295223236</gx:coord>
+				<when>2013-01-22T20:43:44</when>
+				<gx:coord>-122.402435303 37.7863121033 18.6397914886</gx:coord>
+				<when>2013-01-22T21:28:32</when>
+				<gx:coord>-122.397438049 37.7741355896 18.4740905762</gx:coord>
+				<when>2013-01-22T21:32:48</when>
+				<gx:coord>-122.402336121 37.7863273621 17.7880363464</gx:coord>
+				<when>2013-01-23T00:36:16</when>
+				<gx:coord>-122.397659302 37.7913169861 20.7252407074</gx:coord>
+				<when>2013-01-23T00:42:40</when>
+				<gx:coord>-122.395355225 37.7940940857 17</gx:coord>
+				<when>2013-01-23T00:59:44</when>
+				<gx:coord>-122.398521423 37.7906417847 20.5721797943</gx:coord>
+				<when>2013-01-23T01:08:16</when>
+				<gx:coord>-122.40246582 37.7859802246 17.1744804382</gx:coord>
+				<when>2013-01-23T03:50:24</when>
+				<gx:coord>-122.410934448 37.7719230652 34.5387878418</gx:coord>
+				<when>2013-01-23T03:56:48</when>
+				<gx:coord>-122.409698486 37.7576789856 42</gx:coord>
+				<when>2013-01-23T06:24:00</when>
+				<gx:coord>-122.415664673 37.7652130127 42</gx:coord>
+				<when>2013-01-23T06:28:16</when>
+				<gx:coord>-122.420883179 37.7617111206 36.7107048035</gx:coord>
+				<when>2013-01-23T06:38:56</when>
+				<gx:coord>-122.443687439 37.7602920532 42</gx:coord>
+				<when>2013-01-23T06:45:20</when>
+				<gx:coord>-122.448951721 37.7750778198 42</gx:coord>
+				<when>2013-01-23T06:51:44</when>
+				<gx:coord>-122.449485779 37.7687911987 81.1166915894</gx:coord>
+				<when>2013-01-23T18:16:32</when>
+				<gx:coord>-122.449630737 37.7685508728 103</gx:coord>
+				<when>2013-01-23T18:27:12</when>
+				<gx:coord>-122.43309021 37.7694892883 78.9969558716</gx:coord>
+				<when>2013-01-23T18:42:08</when>
+				<gx:coord>-122.404396057 37.7844429016 38.6887054443</gx:coord>
+				<when>2013-01-24T05:24:16</when>
+				<gx:coord>-122.413383484 37.7799301147 25.3454093933</gx:coord>
+				<when>2013-01-24T05:30:40</when>
+				<gx:coord>-122.429374695 37.7694320679 34.9229469299</gx:coord>
+				<when>2013-01-24T05:34:56</when>
+				<gx:coord>-122.450050354 37.7660827637 49.6400985718</gx:coord>
+				<when>2013-01-24T18:22:56</when>
+				<gx:coord>-122.431114197 37.769367218 42</gx:coord>
+				<when>2013-01-24T18:29:20</when>
+				<gx:coord>-122.414535522 37.7788925171 17.0563392639</gx:coord>
+				<when>2013-01-24T18:37:52</when>
+				<gx:coord>-122.402313232 37.7861976624 16.0084896088</gx:coord>
+				<when>2013-01-24T20:13:52</when>
+				<gx:coord>-122.408439636 37.7854766846 31.2985057831</gx:coord>
+				<when>2013-01-24T20:20:16</when>
+				<gx:coord>-122.414154053 37.7857093811 55.1993865967</gx:coord>
+				<when>2013-01-24T20:22:24</when>
+				<gx:coord>-122.414108276 37.7857246399 35.959186554</gx:coord>
+				<when>2013-01-24T20:26:40</when>
+				<gx:coord>-122.414115906 37.7857437134 36.467212677</gx:coord>
+				<when>2013-01-24T20:26:40</when>
+				<gx:coord>-122.414131165 37.7857475281 36.82995224</gx:coord>
+				<when>2013-01-24T21:34:56</when>
+				<gx:coord>-122.405410767 37.7859725952 30.410533905</gx:coord>
+				<when>2013-01-25T02:44:16</when>
+				<gx:coord>-122.402793884 37.7909622192 32.0043830872</gx:coord>
+			</gx:Track>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2012-12-09T19:55:22</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.418815,37.752404,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2012-12-09T22:58:26</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.453361348,37.7695739793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2012-12-11T03:05:26</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.407628225,37.7877501726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2012-12-12T03:00:52</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.40484046,37.7981666319,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2012-12-12T05:19:47</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.424194813,37.7762864165,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2012-12-13T04:40:21</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.404602611,37.7862007487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2012-12-13T04:40:33</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.404663456,37.7866308613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2012-12-15T03:55:10</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.404663456,37.7866308613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2012-12-17T01:13:17</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.404663456,37.7866308613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2012-12-19T05:01:58</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.404663456,37.7866308613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2012-12-20T01:50:10</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.402755119,37.7843813775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2012-12-23T02:57:26</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.43317,37.766686,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2012-12-27T03:56:22</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.404663456,37.7866308613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2012-12-30T01:23:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.404663456,37.7866308613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-01T01:15:05</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.404663456,37.7866308613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-03T03:38:19</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.404663456,37.7866308613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-07T00:25:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.404663456,37.7866308613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-09T04:04:37</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.404663456,37.7866308613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T03:50:24</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.408866882,37.780872345,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T03:52:32</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.408683777,37.7806625366,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T03:52:32</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.408973694,37.7808609009,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T03:52:32</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.408828735,37.7809257507,40.0236091614</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T04:50:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.417617798,37.7792053223,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T04:58:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.423034668,37.7778396606,46.9781494141</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T05:02:56</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.423561096,37.7795562744,2.72082996368</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T05:17:52</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.430236816,37.7730407715,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T05:34:56</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.437080383,37.7722396851,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T06:02:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.437164307,37.7723693848,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T06:13:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.435279846,37.7728118896,56.4695396423</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T06:13:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.433624268,37.7733078003,56.4695396423</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T06:13:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.437545776,37.7712554932,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T06:15:28</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.438766479,37.7821159363,68</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T06:26:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.449691772,37.7687416077,45.6707267761</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T19:41:52</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.44947052,37.7687034607,81.3982696533</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T22:30:24</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.433250427,37.7693710327,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T22:34:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.429519653,37.7694320679,28.2768802643</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T22:38:56</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.413597107,37.7797698975,29.4230308533</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T22:38:56</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.414253235,37.7791824341,20.7765312195</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T22:45:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.407920837,37.7844734192,25.5533695221</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T22:51:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.359901428,37.7947387695,25.9696979523</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T22:56:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.293418884,37.8052177429,6.52059364319</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T22:56:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.279319763,37.7989349365,19</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T23:04:32</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.267044067,37.7954139709,7.96973800659</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-12T23:13:04</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.273719788,37.7969245911,7.99855041504</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T00:10:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.276252747,37.7971801758,8.34499835968</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T00:21:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.275146484,37.797794342,8.34499835968</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T00:21:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.275901794,37.7969360352,8.51767444611</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T00:25:36</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.276245117,37.7971115112,12.6955318451</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T00:32:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.27633667,37.7934875488,12.6955318451</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T00:32:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.276382446,37.7914466858,12.6955318451</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T00:32:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.276313782,37.7969245911,9.30326938629</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T00:34:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.276390076,37.7971458435,11.37981987</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T00:34:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.276313782,37.7970848083,2</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T00:36:16</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.27633667,37.7958450317,2</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T00:36:16</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.276351929,37.7947883606,2</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T00:36:16</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.2759552,37.7969665527,9.4590473175</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T00:36:19</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.276297808,37.7971361997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T02:14:24</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.2762146,37.7972564697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T02:35:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.276245117,37.7971115112,12.9020347595</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T02:46:24</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.276374817,37.7971076965,8</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T02:50:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.276313782,37.7972221375,12.318944931</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T02:54:56</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.275863647,37.7979850769,12.318944931</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T02:54:56</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.276374817,37.7972373962,11.3640909195</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T03:44:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.27205658,37.8036155701,28.8134899139</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T04:01:04</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.266395569,37.7984657288,11.3394565582</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T04:03:12</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.285064697,37.8018302917,11</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T04:03:12</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.28868103,37.8024940491,6</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T04:03:12</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.289871216,37.8027877808,6</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T04:03:12</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.29095459,37.8031539917,7</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T04:03:12</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.292015076,37.8034973145,8</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T04:05:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.292854309,37.8039016724,7</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T04:05:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.295188904,37.8045196533,7</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T04:07:28</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.317947388,37.8090591431,6.91918087006</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T04:11:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.397384644,37.7926979065,23.1584186554</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T04:11:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.396888733,37.7930755615,28.9899711609</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T04:11:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.399902344,37.7907752991,28.8337650299</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T04:16:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.40788269,37.7845077515,26.4059524536</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T04:22:24</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.402290344,37.7863044739,21.4110069275</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T05:22:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.40776825,37.7844429016,32.7827835083</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T05:28:32</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.411987305,37.7813911438,37.4641723633</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T05:37:04</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.416763306,37.7773323059,38.3847236633</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T05:43:28</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.41860199,37.7728843689,13.0026340485</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T05:54:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.419464111,37.7650489807,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T05:58:24</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.419204712,37.759929657,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T06:09:04</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.418380737,37.7522773743,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T06:15:28</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.412101746,37.7527236938,28.9061698914</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T07:06:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.410820007,37.7512550354,42.9758911133</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T07:13:04</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.410713196,37.7513046265,42.9944648743</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T07:13:04</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.410720825,37.7512931824,42.9944648743</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T07:34:24</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.406913757,37.7580375671,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T07:38:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.419166565,37.7656288147,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T07:45:04</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.423919678,37.761554718,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T07:51:28</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.437782288,37.7607498169,36.0004196167</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T07:55:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.446968079,37.7622489929,76.3862380981</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T08:02:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.449203491,37.7676239014,77.3755950928</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-13T09:29:36</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.449447632,37.7684860229,86</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-14T02:33:36</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.449394226,37.7688064575,79.2012939453</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-14T03:03:28</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.4454422,37.7726821899,63.8583030701</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-14T03:12:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.437736511,37.7747840881,45.2061271667</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-14T03:39:09</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.4377136,37.774981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-14T05:54:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.445716858,37.7717514038,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-14T06:02:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.448150635,37.7676620483,77.0687866211</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-14T06:06:56</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.448104858,37.7664871216,79.9946594238</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-14T17:55:12</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.429496765,37.7693748474,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-14T18:03:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.407928467,37.7844543457,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-14T18:10:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.40234375,37.7862701416,21.7250366211</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-14T18:52:48</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.397270203,37.773853302,20.1939353943</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-14T19:01:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.402290344,37.7863044739,20.7744121552</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-14T19:37:36</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.396934509,37.7736091614,20.8734779358</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-14T19:44:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.402244568,37.7862129211,21.2444877625</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-14T20:11:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.407295227,37.7821273804,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-14T20:18:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.408821106,37.7809524536,16.3807792664</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-14T20:37:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.408874512,37.7809448242,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-14T20:48:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.408874512,37.7808952332,43</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-14T21:56:16</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.402389526,37.7858886719,43.0014305115</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-15T05:52:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.407829285,37.784538269,27.3760910034</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-15T05:56:16</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.419364929,37.7751731873,21.2751369476</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-15T06:02:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.433036804,37.7693519592,42.2998161316</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-15T06:11:12</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.452255249,37.765914917,47.1540298462</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-15T18:29:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.433189392,37.7693862915,47.4481620789</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-15T18:37:52</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.419578552,37.7750511169,26.3636283875</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-15T18:44:16</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.402366638,37.7861099243,25.4109706879</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-16T01:48:48</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.397468567,37.773651123,23.5228824615</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-16T01:53:04</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.402359009,37.7862586975,22.6829452515</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-16T04:28:48</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.40763092,37.7879524231,39.8380241394</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-16T05:47:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.413406372,37.7799301147,25.7550888062</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-16T05:52:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.42691803,37.7721290588,19.5098247528</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-16T05:52:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.428436279,37.7695007324,32</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-16T05:58:24</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.448707581,37.7665367126,41.6675376892</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-16T06:00:32</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.448570251,37.7659873962,93.2387237549</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-16T06:04:48</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.446777344,37.7619056702,61.2601890564</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-16T06:21:52</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.449943542,37.7687034607,78.4662857056</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-16T06:36:48</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.449623108,37.7687110901,82.1247177124</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-16T18:27:12</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.42817688,37.7631568909,77.8042831421</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-16T18:35:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.406547546,37.7852287292,26.7913703918</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-17T02:40:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.397834778,37.7735710144,19.4132194519</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-17T02:54:56</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.402336121,37.786277771,19.4754943848</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-17T03:03:28</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.397743225,37.7732963562,19.601732254</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-17T03:09:52</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.402412415,37.7859916687,19.9631519318</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-17T03:26:56</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.40801239,37.7877044678,33.765335083</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-17T03:37:36</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.417236328,37.7861633301,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-17T03:41:52</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.421379089,37.7856750488,66</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-17T03:48:16</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.425163269,37.7863121033,55.9965744019</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-17T04:16:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.428375244,37.7855300903,31</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-17T04:20:16</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.428359985,37.7858581543,36.1490211487</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-17T06:32:32</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.430862427,37.7854347229,41.1263809204</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-17T08:10:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.438262939,37.7711906433,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-17T08:14:56</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.449546814,37.7687988281,78.0006713867</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-17T19:14:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.431335449,37.769077301,40.1852035522</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-17T19:20:32</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.419448853,37.7751274109,26.2564983368</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-17T19:26:56</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.402816772,37.7858085632,20.0153083801</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-18T05:47:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.404655457,37.7866668701,28.7438278198</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-18T06:24:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.413352966,37.7799453735,25.3988895416</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-18T06:32:32</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.433769226,37.7686004639,34.7240142822</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-18T06:41:04</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.452583313,37.7661361694,34.7240142822</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-18T18:33:36</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.429336548,37.7694549561,36.3179130554</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-18T18:44:16</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.407676697,37.7846183777,28.4205093384</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-18T18:52:48</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.402160645,37.7860946655,15.4977436066</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-18T21:26:24</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.397674561,37.7732772827,21.4066638947</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-18T21:45:36</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.404151917,37.784740448,20.2083358765</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T03:50:24</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.403556824,37.7886772156,14.7933225632</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T03:56:48</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.404243469,37.7920532227,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T04:01:04</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.40473938,37.7942810059,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T04:03:12</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.404693604,37.7975692749,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T04:05:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.406166077,37.7975273132,46.0141906738</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T06:24:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.407524109,37.7917442322,43.1176757812</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T08:06:24</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.409568787,37.787273407,33.5768241882</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T08:42:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.403411865,37.7877922058,29.5605010986</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T10:10:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.409378052,37.7832717896,23.8854579926</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T10:16:32</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.413764954,37.7796859741,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T10:25:04</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.419685364,37.7784500122,32.2553482056</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T10:31:28</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.425262451,37.7763633728,35.5981407166</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T10:37:52</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.425201416,37.7716255188,41.8036117554</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T11:18:24</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.430656433,37.7730369568,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T11:33:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.445953369,37.7711105347,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T20:30:56</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.449447632,37.7685508728,81.3336334229</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T22:26:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.450363159,37.7682685852,86</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T22:34:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.433555603,37.7694206238,86.0099868774</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T22:41:04</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.427581787,37.7693138123,53.9854278564</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T22:45:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.414558411,37.7788505554,17.5322589874</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-19T22:49:36</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.407714844,37.7842559814,25.3145866394</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T01:29:36</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.406913757,37.7887954712,37.0106010437</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T02:29:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.407989502,37.7842941284,23.1509838104</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T02:35:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.41191864,37.7810401917,36.851146698</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T02:42:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.416282654,37.7776298523,22.0078239441</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T03:12:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.421638489,37.775970459,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T03:12:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.421859741,37.7761459351,18</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T03:22:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.430107117,37.7750549316,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T04:58:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.432609558,37.7717056274,36</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T05:00:48</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.435096741,37.7714996338,51.9989089966</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T05:07:12</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.443138123,37.7703933716,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T05:20:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.448722839,37.7688560486,78.0001983643</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T05:26:24</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.449996948,37.7686882019,80.7255554199</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T05:30:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.449996948,37.7686882019,80.7255554199</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T22:34:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.44984436,37.768661499,81.0747833252</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T22:51:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.445991516,37.7737312317,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T22:56:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.4478302,37.7821388245,51.1453666687</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T23:04:32</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.45149231,37.7968139648,78.9797744751</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T23:08:48</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.441764832,37.799118042,-0.804678916931</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T23:15:12</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.440170288,37.8034934998,14</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T23:25:52</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.434074402,37.8053207397,13.1522760391</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-20T23:45:04</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.431671143,37.8063049316,11</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T00:27:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.418525696,37.8082466125,13.9917383194</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T00:59:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.418533325,37.8074760437,2.36684894562</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T01:21:04</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.412742615,37.8078536987,20</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T01:31:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.405006409,37.8059234619,13.6333713531</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T01:36:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.403106689,37.8028945923,13.8336668015</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T01:38:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.398674011,37.802280426,13.8336668015</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T01:38:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.402915955,37.8019180298,13.1414003372</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T01:40:16</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.40259552,37.8007316589,47.9657173157</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T01:46:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.402160645,37.7961387634,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T01:50:56</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.401237488,37.794052124,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T01:53:04</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.40007782,37.7910652161,46.1224212646</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T02:08:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.402389526,37.7862892151,19.5564689636</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T02:14:24</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.402412415,37.786277771,19.425327301</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T04:01:04</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.406219482,37.7843742371,30.6014671326</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T04:05:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.406227112,37.7843780518,29.6075248718</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T07:17:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.413383484,37.7799263,25.7667045593</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T07:19:28</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.430183411,37.7702140808,21.536989212</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T07:21:36</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.428901672,37.7693367004,35.1443786621</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T07:28:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.45022583,37.7671432495,53.0414123535</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T21:15:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.449798584,37.7687034607,81.0064544678</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T21:17:52</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.450416565,37.7683334351,81.0064544678</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T21:17:52</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.449699402,37.7687149048,81.0001296997</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T21:22:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.449935913,37.7687339783,80.7652816772</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T22:36:48</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.431289673,37.773979187,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T22:45:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.410247803,37.7483291626,59</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T22:51:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.412445068,37.758846283,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T22:58:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.408790588,37.7710418701,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T23:08:48</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.293617249,37.8323554993,2.00644111633</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T23:17:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.294319153,37.8376731873,16.5175495148</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-21T23:23:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.292144775,37.8303718567,11.3588256836</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T02:12:16</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.286491394,37.8296165466,5</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T02:16:32</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.296684265,37.8381118774,10.2444171906</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T02:40:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.391624451,37.7859992981,12.018705368</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T02:44:16</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.406524658,37.7725791931,39.8824539185</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T02:50:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.412338257,37.7542610168,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T02:57:04</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.414909363,37.7611885071,20</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T03:01:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.428092957,37.7645339966,27</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T03:05:36</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.447631836,37.76512146,112</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T03:22:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.449371338,37.7722854614,72.8243713379</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T03:29:04</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.448066711,37.7732849121,43.1596488953</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T03:37:36</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.440727234,37.7727546692,68.6435852051</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T03:37:36</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.440910339,37.772769928,60.1805458069</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T03:46:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.433815002,37.7733421326,60.1805458069</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T03:46:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.436882019,37.7713356018,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T03:50:24</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.433296204,37.7691726685,46</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T03:52:32</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.432426453,37.7693061829,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T03:56:48</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.430976868,37.7675437927,55</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T04:05:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.431312561,37.7672843933,44.5539855957</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T04:33:04</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.431488037,37.767162323,75</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T04:35:12</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.431289673,37.7672843933,36.4518280029</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T04:37:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.431510925,37.7672195435,24</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T04:43:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.431312561,37.7673187256,36.4534606934</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T06:45:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.443511963,37.7705039978,39.2750701904</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T06:53:52</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.449539185,37.7687187195,82.0738677979</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T18:27:12</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.414962769,37.7785339355,19.0989456177</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T18:33:36</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.404197693,37.7858924866,24.3805866241</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T20:28:48</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.404090881,37.7913360596,27.1295223236</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T20:43:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.402435303,37.7863121033,18.6397914886</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T21:28:32</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.397438049,37.7741355896,18.4740905762</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-22T21:32:48</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.402336121,37.7863273621,17.7880363464</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-23T00:36:16</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.397659302,37.7913169861,20.7252407074</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-23T00:42:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.395355225,37.7940940857,17</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-23T00:59:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.398521423,37.7906417847,20.5721797943</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-23T01:08:16</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.40246582,37.7859802246,17.1744804382</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-23T03:50:24</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.410934448,37.7719230652,34.5387878418</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-23T03:56:48</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.409698486,37.7576789856,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-23T06:24:00</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.415664673,37.7652130127,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-23T06:28:16</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.420883179,37.7617111206,36.7107048035</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-23T06:38:56</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.443687439,37.7602920532,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-23T06:45:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.448951721,37.7750778198,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-23T06:51:44</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.449485779,37.7687911987,81.1166915894</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-23T18:16:32</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.449630737,37.7685508728,103</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-23T18:27:12</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.43309021,37.7694892883,78.9969558716</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-23T18:42:08</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.404396057,37.7844429016,38.6887054443</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-24T05:24:16</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.413383484,37.7799301147,25.3454093933</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-24T05:30:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.429374695,37.7694320679,34.9229469299</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-24T05:34:56</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.450050354,37.7660827637,49.6400985718</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-24T18:22:56</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.431114197,37.769367218,42</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-24T18:29:20</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.414535522,37.7788925171,17.0563392639</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-24T18:37:52</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.402313232,37.7861976624,16.0084896088</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-24T20:13:52</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.408439636,37.7854766846,31.2985057831</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-24T20:20:16</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.414154053,37.7857093811,55.1993865967</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-24T20:22:24</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.414108276,37.7857246399,35.959186554</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-24T20:26:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.414115906,37.7857437134,36.467212677</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-24T20:26:40</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.414131165,37.7857475281,36.82995224</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-24T21:34:56</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.405410767,37.7859725952,30.410533905</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<ExtendedData>
+				<Data name="datetime">
+					<value>2013-01-25T02:44:16</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.402793884,37.7909622192,32.0043830872</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>
