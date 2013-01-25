@@ -25,7 +25,7 @@ class RestServlet extends ScalatraServlet with ScalateSupport { //with DatabaseS
   }
 
   get("/all") {
-    val apoints = Placemark.read().map({ pm => Map("date" -> pm.date, "points" -> pm.point) })
+    val apoints = Placemark.read().map({ _.point })
 
     contentType = "application/json"
     swrite(apoints)
