@@ -30,16 +30,31 @@ class RestServlet extends ScalatraServlet with ScalateSupport { //with DatabaseS
     contentType = "application/json"
     swrite(apoints)
   }
-  
-  get("/square"){
+
+  get("/square") {
+    val apoints = Placemark.read().map(_.point)
+    val maxSquare = Square.max(apoints)
+
+    val ret = List(Map("area" -> maxSquare.toPoints, "count" -> maxSquare.countWithin(apoints)))
+    contentType = "application/json"
+    swrite(ret)
+
+  }
+
+  get("/square/:n") {
+
+    var n = params("n").toInt
+
     val apoints = Placemark.read().map(_.point)
     val maxSquare = Square.max(apoints)
     
+    val squares = maxSquare/n
     
-    val ret = List(Map("area" -> maxSquare.toPoints, "count" -> maxSquare.countWithin(apoints) ))
+
+    val ret = squares.map { sq => Map("area" -> sq.toPoints, "count" -> sq.countWithin(apoints))}
     contentType = "application/json"
     swrite(ret)
-    
+
   }
 
   notFound {
