@@ -7,6 +7,7 @@ import net.liftweb.json.NoTypeHints
 import net.liftweb.json.Serialization
 import net.liftweb.json.Serialization.{ write => swrite }
 import datapoints.Placemark
+import datapoints.Square
 
 class RestServlet extends ScalatraServlet with ScalateSupport { //with DatabaseSessionSupport
 
@@ -28,6 +29,17 @@ class RestServlet extends ScalatraServlet with ScalateSupport { //with DatabaseS
 
     contentType = "application/json"
     swrite(apoints)
+  }
+  
+  get("/square"){
+    val apoints = Placemark.read().map(_.point)
+    val maxSquare = Square.max(apoints)
+    
+    
+    val ret = List(Map("area" -> maxSquare.toPoints, "count" -> maxSquare.countWithin(apoints) ))
+    contentType = "application/json"
+    swrite(ret)
+    
   }
 
   notFound {
